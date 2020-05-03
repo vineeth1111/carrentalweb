@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "583e798f2e33fe76ed6a33fc2fdbd7ba",
+    "revision": "97cb7f2af5089bb3ebed0a824191fec2",
     "url": "/carrentalweb/index.html"
   },
   {
-    "revision": "ea99231b706a8cc2a05c",
+    "revision": "efb3bb82602202eaae72",
     "url": "/carrentalweb/static/css/main.164a379e.chunk.css"
   },
   {
-    "revision": "7937f0fe6eb460342f56",
-    "url": "/carrentalweb/static/js/2.8afea409.chunk.js"
+    "revision": "b6aeb3bfe2f1895b5d52",
+    "url": "/carrentalweb/static/js/2.8247ff93.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/carrentalweb/static/js/2.8afea409.chunk.js.LICENSE.txt"
+    "url": "/carrentalweb/static/js/2.8247ff93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea99231b706a8cc2a05c",
-    "url": "/carrentalweb/static/js/main.6432e891.chunk.js"
+    "revision": "efb3bb82602202eaae72",
+    "url": "/carrentalweb/static/js/main.7109c8c3.chunk.js"
   },
   {
     "revision": "0036e95f5cd16d1744a7",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/carrentalweb/static/css/main.164a379e.chunk.css",
-    "main.js": "/carrentalweb/static/js/main.6432e891.chunk.js",
-    "main.js.map": "/carrentalweb/static/js/main.6432e891.chunk.js.map",
+    "main.js": "/carrentalweb/static/js/main.7109c8c3.chunk.js",
+    "main.js.map": "/carrentalweb/static/js/main.7109c8c3.chunk.js.map",
     "runtime-main.js": "/carrentalweb/static/js/runtime-main.6b87fefe.js",
     "runtime-main.js.map": "/carrentalweb/static/js/runtime-main.6b87fefe.js.map",
-    "static/js/2.8afea409.chunk.js": "/carrentalweb/static/js/2.8afea409.chunk.js",
-    "static/js/2.8afea409.chunk.js.map": "/carrentalweb/static/js/2.8afea409.chunk.js.map",
+    "static/js/2.8247ff93.chunk.js": "/carrentalweb/static/js/2.8247ff93.chunk.js",
+    "static/js/2.8247ff93.chunk.js.map": "/carrentalweb/static/js/2.8247ff93.chunk.js.map",
     "index.html": "/carrentalweb/index.html",
-    "precache-manifest.44b43008a0da501197e4cbaf72aef5c7.js": "/carrentalweb/precache-manifest.44b43008a0da501197e4cbaf72aef5c7.js",
+    "precache-manifest.ffd0cf72c97d555b968ae8ef4bc8f2cf.js": "/carrentalweb/precache-manifest.ffd0cf72c97d555b968ae8ef4bc8f2cf.js",
     "service-worker.js": "/carrentalweb/service-worker.js",
     "static/css/main.164a379e.chunk.css.map": "/carrentalweb/static/css/main.164a379e.chunk.css.map",
-    "static/js/2.8afea409.chunk.js.LICENSE.txt": "/carrentalweb/static/js/2.8afea409.chunk.js.LICENSE.txt",
+    "static/js/2.8247ff93.chunk.js.LICENSE.txt": "/carrentalweb/static/js/2.8247ff93.chunk.js.LICENSE.txt",
     "static/media/carLogo.png": "/carrentalweb/static/media/carLogo.c841ecca.png",
     "static/media/hondaAmaze.jpg": "/carrentalweb/static/media/hondaAmaze.e6a73dd5.jpg",
     "static/media/hondaCRV.jpg": "/carrentalweb/static/media/hondaCRV.bcb8b979.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6b87fefe.js",
-    "static/js/2.8afea409.chunk.js",
+    "static/js/2.8247ff93.chunk.js",
     "static/css/main.164a379e.chunk.css",
-    "static/js/main.6432e891.chunk.js"
+    "static/js/main.7109c8c3.chunk.js"
   ]
 }
