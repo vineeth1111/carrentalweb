@@ -8,9 +8,9 @@ import Routes from "./helpers/Routes";
 function App() {
   return (
     <div className="App">
-      <Header />
       {/* <Home/> */}
       <Router>
+      <Header />
         <Routes />
       </Router>
     </div>

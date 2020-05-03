@@ -12,7 +12,6 @@ export default class Routes extends Component{
                 <Switch>
                     <Route path="/" exact component={Home} />
                     <Route path="/booking-details" component={BookingDetails} />
-                    <Redirect handler={Home}/>
                 </Switch>
             </Router>
         )
